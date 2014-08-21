@@ -150,6 +150,27 @@ padding: 10px;
 @media (min-width: 1200px) {
 	#mycarousel .item { height:500px;}
 
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+#footer {
+  height: 60px;
+ 
+}
+
+
 #slide1 {
  background: url('../images/carousel_large_01.jpg') top center no-repeat;
 
