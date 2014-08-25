@@ -62,6 +62,40 @@ padding:0;
  background: url('../images/carousel_medium_03.jpg') top center no-repeat;
 
 }
+
+/*estos pertenecen a la pagina de clientes */
+#slide4 {
+ background: url('../images/cliente1.jpg') top center no-repeat;
+
+}
+
+#slide5 {
+ background: url('../images/cliente3.jpg') top center no-repeat;
+
+}
+#slide6 {
+ background: url('../images/cliente4.jpg') top center no-repeat;
+
+}
+
+#slide7 {
+ background: url('../images/cliente5.jpg') top center no-repeat;
+
+}
+
+#slide8 {
+ background: url('../images/cliente6.jpg') top center no-repeat;
+
+}
+#slide9 {
+ background: url('../images/cliente7.jpg') top center no-repeat;
+
+}
+
+#slide10 {
+ background: url('../images/cliente8.jpg') top center no-repeat;
+
+}
 /* --------------------------------------
    Global Styles
    -------------------------------------- */
@@ -141,6 +175,48 @@ padding: 10px;
  background: url('../images/carousel_small_03.jpg') top center no-repeat;
 
 }
+
+/*estos pertenecen a la pagina de clientes */
+#slide4 {
+ background: url('../images/cliente1.jpg') top center no-repeat;
+
+}
+
+#slide5 {
+ background: url('../images/cliente3.jpg') top center no-repeat;
+
+}
+#slide6 {
+ background: url('../images/cliente4.jpg') top center no-repeat;
+
+}
+
+#slide7 {
+ background: url('../images/cliente5.jpg') top center no-repeat;
+
+}
+
+#slide8 {
+ background: url('../images/cliente6.jpg') top center no-repeat;
+
+}
+#slide9 {
+ background: url('../images/cliente7.jpg') top center no-repeat;
+
+}
+
+#slide10 {
+ background: url('../images/cliente8.jpg') top center no-repeat;
+
+}
+
+
+
+
+
+
+
+
 .carousel-caption h4{
    font-size: 16px;
 }
@@ -184,4 +260,40 @@ body {
  background: url('../images/carousel_large_03.jpg') top center no-repeat;
 
 }
+
+/*estos pertenecen a la pagina de clientes */
+#slide4 {
+ background: url('../images/cliente1.jpg') top center no-repeat;
+
+}
+
+#slide5 {
+ background: url('../images/cliente3.jpg') top center no-repeat;
+
+}
+#slide6 {
+ background: url('../images/cliente4.jpg') top center no-repeat;
+
+}
+
+#slide7 {
+ background: url('../images/cliente5.jpg') top center no-repeat;
+
+}
+
+#slide8 {
+ background: url('../images/cliente6.jpg') top center no-repeat;
+
+}
+#slide9 {
+ background: url('../images/cliente7.jpg') top center no-repeat;
+
+}
+
+#slide10 {
+ background: url('../images/cliente8.jpg') top center no-repeat;
+
+}
+
+
 }
