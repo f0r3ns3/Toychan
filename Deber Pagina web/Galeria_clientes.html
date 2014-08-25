@@ -77,9 +77,10 @@
               <a href="contactenos.html">Contactenos</a>
             </li><!-- Contactenos-->
           </ul>
-          <form class="navbar-form pull-right">
-            <input class="form-control" placeholder="ingresa tu busqueda..." id="searchInput">
-              <button type="submit"class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+          <form class="navbar-form pull-right" method="get" action="http://www.google.com/search">
+            <input class="form-control" placeholder="ingresa tu busqueda..." name="q">
+              <button type="submit"class="btn btn-default"><span class="glyphicon glyphicon-search"></span>  </button>
+              <input type="hidden" name="sitesearch" value="http://www.toychan.com/"/>
           </input>
           </form><!-- fin del NAV bar form -->
           
